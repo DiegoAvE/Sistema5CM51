@@ -1,0 +1,10 @@
+Abrir el archivo GyMan para conectarse al ambiente: 
+
+Credenciales para entorno de prueba en Azure a través de RDP
+Usuario: Equipo 2
+Contraseña: Secuencia5CM51+
+
+
+Login Sistema GyMan:
+Usuario: User1
+Contraseña: Password1
