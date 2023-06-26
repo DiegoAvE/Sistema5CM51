@@ -1,0 +1,4 @@
+Manifest-Version: 2.0
+Created-By: Equipo 2
+Main-Class: Login
+X-COMMENT: Sistema
